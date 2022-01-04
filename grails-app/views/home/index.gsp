@@ -16,7 +16,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <title>Business Consulting HTML Template</title>
+    <title>Business Consulting Hdjhfjkdkjdhe</title>
 
     <meta name="author" content="themesflat.com">
 
